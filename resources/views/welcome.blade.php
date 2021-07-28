@@ -108,7 +108,10 @@
                               <path fill-rule="evenodd" d="M14 11V2h1v9h-1zM6 3v10H5V3h1z"/>
                               <path d="M5 2.905a1 1 0 0 1 .9-.995l8-.8a1 1 0 0 1 1.1.995V3L5 4V2.905z"/>
                             </svg></a></li>
-                            <li> <a href="">Ropa </a> </li>
+                            <li> <a href="">Ropa <i class="fas fa-tshirt"></i></a> </li>
+                            <li> <a href="">Turismo <i class="fas fa-bus"></i></a> </li>
+                            <li> <a href="">Asesorias <i class="fas fa-user-tie"></i></a> </li>
+                            <li> <a href="">Artesania  <i class="fas fa-american-sign-language-interpreting"></i></a> </li>
                             </ul>
                         </ul>
                       </div>

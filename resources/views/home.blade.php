@@ -241,13 +241,12 @@
                                    <span class="stats-total">4.3k</span>
                                 </div>
                              </div>
-                             <div class="timeline-footer">
+                             <div class="timeline-footer p-1">
                                 <a href="javascript:;" class="m-r-15 text-inverse-lighter"><i class="fa fa-thumbs-up fa-fw fa-lg m-r-3"></i> Me gusta</a>
                                 <a href="javascript:;" class="m-r-15 text-inverse-lighter"><i class="fa fa-thumbs-down fa-fw fa-lg m-r-3"></i> No Me gusta</a>
                                 <a href="javascript:;" class="m-r-15 text-inverse-lighter"><i class="fa fa-Comentarios fa-fw fa-lg m-r-3"></i> Comentar</a> 
                              </div>
-                             <div class="timeline-comment-box d-flex align-items-center">
-                                <div class="user"><i class="fas fa-user fa-2x"></i></div>
+                             <div class="timeline-comment-box">
                                 <div class="input">
                                    <form action="">
                                       <div class="input-group">
@@ -270,13 +269,12 @@
                              <div class="timeline-content">
                                 <p class="m-2"><i class="fas fa-map-marker-alt"></i> Ubicacion: Calle los lagos, #404</p>
                              </div>
-                             <div class="timeline-footer">
+                             <div class="timeline-footer p-1">
                               <a href="javascript:;" class="m-r-15 text-inverse-lighter"><i class="fa fa-thumbs-up fa-fw fa-lg m-r-3"></i> Me gusta</a>
                               <a href="javascript:;" class="m-r-15 text-inverse-lighter"><i class="fa fa-thumbs-down fa-fw fa-lg m-r-3"></i> No Me gusta</a>
                               <a href="javascript:;" class="m-r-15 text-inverse-lighter"><i class="fa fa-Comentarios fa-fw fa-lg m-r-3"></i> Comentar</a> 
                            </div>
-                           <div class="timeline-comment-box d-flex align-items-center">
-                              <div class="user"><i class="fas fa-user fa-2x"></i></div>
+                           <div class="timeline-comment-box">
                               <div class="input">
                                  <form action="">
                                     <div class="input-group">
@@ -310,13 +308,12 @@
                                  
                                 </p>
                              </div>
-                             <div class="timeline-footer">
+                             <div class="timeline-footer p-1">
                               <a href="javascript:;" class="m-r-15 text-inverse-lighter"><i class="fa fa-thumbs-up fa-fw fa-lg m-r-3"></i> Me gusta</a>
                               <a href="javascript:;" class="m-r-15 text-inverse-lighter"><i class="fa fa-thumbs-down fa-fw fa-lg m-r-3"></i> No Me gusta</a>
                               <a href="javascript:;" class="m-r-15 text-inverse-lighter"><i class="fa fa-Comentarios fa-fw fa-lg m-r-3"></i> Comentar</a> 
                            </div>
-                           <div class="timeline-comment-box d-flex align-items-center">
-                              <div class="user"><i class="fas fa-user fa-2x"></i></div>
+                           <div class="timeline-comment-box ">
                               <div class="input">
                                  <form action="">
                                     <div class="input-group">
