@@ -5,6 +5,7 @@
 <div class="text-center container my-3 border p-3">
     <form class="flex">
         <div class="row">
+           <h2>Opciones de filtro de búsqueda</h2>
             <div class="col-md-7">
                 <input class="form-control m-2" type="search" placeholder="Nombres, Etiqueta, Lugar" aria-label="Search">
                 <input class="form-control m-2" type="search" placeholder="Articulos, Servicios" aria-label="Search">
@@ -29,10 +30,12 @@
                   <p class="card-text">Direccion: Andacollo 342</p>
                 </div>
                 <ul class="list-group list-group-flush">
+                  <h6>Contacto</h6>
                   <li class="list-group-item">+569 9893843</li>
                   <li class="list-group-item">+569 3857435</li>
                 </ul>
                 <div class="">
+                  <h6>Redes Sociales</h6>
                   <a href="#" class="card-link">Facebook <i class="fa fa-facebook" aria-hidden="true"></i></a>
                   <a href="#" class="card-link">Instragram <i class="fa fa-instagram" aria-hidden="true"></i></a>
                   <a href="#" class="card-link">Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
@@ -50,10 +53,12 @@
                   <p class="card-text">Direccion: Andacollo 342</p>
                 </div>
                 <ul class="list-group list-group-flush">
+                  <h6>Contacto</h6>
                   <li class="list-group-item">+569 9893843</li>
                   <li class="list-group-item">+569 3857435</li>
                 </ul>
                 <div class="">
+                  <h6>Redes Sociales</h6>
                   <a href="#" class="card-link">Facebook <i class="fa fa-facebook" aria-hidden="true"></i></a>
                   <a href="#" class="card-link">Instragram <i class="fa fa-instagram" aria-hidden="true"></i></a>
                   <a href="#" class="card-link">Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
@@ -71,10 +76,12 @@
                   <p class="card-text">Direccion: Andacollo 342</p>
                 </div>
                 <ul class="list-group list-group-flush">
+                  <h6>Contacto</h6>
                   <li class="list-group-item">+569 9893843</li>
                   <li class="list-group-item">+569 3857435</li>
                 </ul>
                 <div class="">
+                  <h6>Redes Sociales</h6>
                   <a href="#" class="card-link">Facebook <i class="fa fa-facebook" aria-hidden="true"></i></a>
                   <a href="#" class="card-link">Instragram <i class="fa fa-instagram" aria-hidden="true"></i></a>
                   <a href="#" class="card-link">Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
@@ -92,10 +99,12 @@
                   <p class="card-text">Direccion: Andacollo 342</p>
                 </div>
                 <ul class="list-group list-group-flush">
+                  <h6>Contacto</h6>
                   <li class="list-group-item">+569 9893843</li>
                   <li class="list-group-item">+569 3857435</li>
                 </ul>
                 <div class="">
+                  <h6>Redes Sociales</h6>
                   <a href="#" class="card-link">Facebook <i class="fa fa-facebook" aria-hidden="true"></i></a>
                   <a href="#" class="card-link">Instragram <i class="fa fa-instagram" aria-hidden="true"></i></a>
                   <a href="#" class="card-link">Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
@@ -113,10 +122,12 @@
                   <p class="card-text">Direccion: Andacollo 342</p>
                 </div>
                 <ul class="list-group list-group-flush">
+                   <h6>Contacto</h6>
                   <li class="list-group-item">+569 9893843</li>
                   <li class="list-group-item">+569 3857435</li>
                 </ul>
                 <div class="">
+                  <h6>Redes Sociales</h6>
                   <a href="#" class="card-link">Facebook <i class="fa fa-facebook" aria-hidden="true"></i></a>
                   <a href="#" class="card-link">Instragram <i class="fa fa-instagram" aria-hidden="true"></i></a>
                   <a href="#" class="card-link">Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
@@ -134,10 +145,12 @@
                 <p class="card-text">Direccion: Andacollo 342</p>
               </div>
               <ul class="list-group list-group-flush">
+               <h6>Contacto</h6>
                 <li class="list-group-item">+569 9893843</li>
                 <li class="list-group-item">+569 3857435</li>
               </ul>
               <div class="">
+               <h6>Redes Sociales</h6>
                 <a href="#" class="card-link">Facebook <i class="fa fa-facebook" aria-hidden="true"></i></a>
                 <a href="#" class="card-link">Instragram <i class="fa fa-instagram" aria-hidden="true"></i></a>
                 <a href="#" class="card-link">Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
@@ -152,12 +165,37 @@
       <div class="modal-content">
         <div class="modal-header">
           
-          <h5 class="modal-title" id="exampleModalLabel">Tour Ñuble</h5>
+          <h5 class="modal-title" id="exampleModalLabel">Chocolates Ñuble</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body text-center">
-          <a href=""><img src="{{asset('img/imagen4.jpg')}}" alt="..."></a>
-            <p class="card-text m-1">Somos una empresa familiar de turismo por la region de Ñuble</p>
+            <div class="container border m-1">
+               <a href=""><img class="m-2" src="{{asset('img/imagen4.jpg')}}" alt="..."></a>
+               <h4 class="m-2">Informacion</h4>
+               <p class="card-text m-1">Disfrutas de nuestros chocolates sin azucar, hacemos ventar al por mayor</p>
+            </div>
+            <div class="container border m-1">
+               <h5 class="m-2">Números de Contato</h5>
+               <p>Contacto 1: +56998987487  -  Contacto 2: +59887478765</p>
+            </div>
+            <div class="container border m-1">
+               <h5 class="m-2">Redes Sociales</h5>
+               <a href="#" class="card-link">Facebook <i class="fa fa-facebook" aria-hidden="true"></i></a>
+               <a href="#" class="card-link">Instragram <i class="fa fa-instagram" aria-hidden="true"></i></a>
+               <a href="#" class="card-link">Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+            </div>
+            <h5 class="m-2">Productos</h5>
+            <div class="d-flex justify-content-center">
+               <div class="profile-header-img m-2">
+                  <img src="{{asset('img/user.png')}}" alt="">
+               </div>
+               <div class="profile-header-img m-2">
+                  <img src="{{asset('img/user.png')}}" alt="">
+               </div>
+               <div class="profile-header-img m-2">
+                  <img src="{{asset('img/user.png')}}" alt="">
+               </div>
+            </div>
             
         </div>
         <div class="modal-footer">

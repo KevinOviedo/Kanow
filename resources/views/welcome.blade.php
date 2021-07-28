@@ -4,8 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Fonts -->
-        <link href="https://fon<!DOCTYPE html>
-        <html lang="en">
+       
           <head>
             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
             <!-- Meta, title, CSS, favicons, etc. -->
@@ -141,7 +140,7 @@
                               <img src="images/user.png" alt="">Perfil de usuario
                             </a>
                             <div class="dropdown-menu dropdown-usermenu pull-right" aria-labelledby="navbarDropdown">
-                              <a class="dropdown-item"  href="javascript:;"> Perfil</a>
+                              <a class="dropdown-item"  href="/perfil"> Perfil</a>
                                 <a class="dropdown-item"  href="javascript:;">
                                   <span class="badge bg-red pull-right">50%</span>
                                   <span>Configuración</span>
