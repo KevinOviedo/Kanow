@@ -21,18 +21,18 @@
     <div class="row">
         <div class="col">
             <div class="card text-center" style="width: 14rem;">
-                <div class="card-img-top ">
-                    <a ><img data-bs-toggle="modal" data-bs-target="#exampleModal"class="card-img-top"src="{{asset('img/imagen4.jpg')}}" alt="..."></a>
+                <div class="card-img-top">
+                    <a ><img data-bs-toggle="modal" data-bs-target="#exampleModal"class="img-thumbnail"src="{{asset('img/users/imagen4.jpeg')}}" alt="..."></a>
                 </div>
                 <div class="card-body">
-                  <h5 class="card-title"><a data-bs-toggle="modal" data-bs-target="#exampleModal" href="#" class="card-link">Chocolates Ñuble</a></h5>
-                  <p class="card-text">Disfrutas de nuestros chocolates sin azucar, hacemos ventar al por mayor</p>
-                  <p class="card-text">Direccion: Andacollo 342</p>
+                  <h5 class="card-title"><a data-bs-toggle="modal" data-bs-target="#exampleModal" href="#" class="card-link"><u>B&B Casona Patrimonial Cobquecura & Ecomuseo</u></a></h5>
+                  <p class="card-text">Lugar patrimonial, dedicado a la investigación que comparte con los clientes el amor por nuestro pasado y los empodera de respeto por el medio Ambiente.</p>
+                  <p class="card-text"><strong>Direccion: Cobquecura </strong><i class="fas fa-map-marked-alt"></i></p>
                 </div>
                 <ul class="list-group list-group-flush">
                   <h6>Contacto</h6>
-                  <li class="list-group-item">+569 9893843</li>
-                  <li class="list-group-item">+569 3857435</li>
+                  <li class="list-group-item">+56 9 37004153</li>
+                  <li class="list-group-item">+56 9 37004153</li>
                 </ul>
                 <div class="">
                   <h6>Redes Sociales</h6>
@@ -45,17 +45,17 @@
         <div class="col">
             <div class="card text-center" style="width: 14rem;">
                 <div class="card-img-top">
-                    <img class="card-img-top" src="{{asset('img/imagen2.jpg')}}" alt="...">
+                    <img class="img-thumbnail"  src="{{asset('img/imagen2.png')}}" alt="...">
                 </div>
                 <div class="card-body">
-                  <h5 class="card-title"><a href="#" class="card-link">Licores Ñuble</a></h5>
-                  <p class="card-text">Somos una empresa de la region de Ñuble con 20 años de trayectoria en el rubro</p>
-                  <p class="card-text">Direccion: Andacollo 342</p>
+                  <h5 class="card-title"><a href="#" class="card-link"><u>Akivoychillan</u></a></h5>
+                  <p class="card-text">La mejor alternativa para conocer el patrimonio histórico y cultural de Chillán.</p>
+                  <p class="card-text"><strong>Direccion: Chillán </strong><i class="fas fa-map-marked-alt"></i></p>
                 </div>
                 <ul class="list-group list-group-flush">
                   <h6>Contacto</h6>
-                  <li class="list-group-item">+569 9893843</li>
-                  <li class="list-group-item">+569 3857435</li>
+                  <li class="list-group-item">+569 6843 6636</li>
+                  <li class="list-group-item">+569 6843 6636</li>
                 </ul>
                 <div class="">
                   <h6>Redes Sociales</h6>
@@ -68,17 +68,17 @@
         <div class="col">
             <div class="card text-center" style="width: 14rem;">
                 <div class="card-img-top">
-                    <a href=""><img class="card-img-top"src="{{asset('img/imagen3.jpg')}}" alt="..."></a>
+                    <a href=""><img class="img-thumbnail"src="{{asset('img/imagen3.jpg')}}" alt="..."></a>
                 </div>
                 <div class="card-body">
-                  <h5 class="card-title"><a href="#" class="card-link">Granja Ñuble</a></h5>
-                  <p class="card-text">Nuestras gallinas son las mas felices de la region, por eso prefiera nuestros productos.</p>
-                  <p class="card-text">Direccion: Andacollo 342</p>
+                  <h5 class="card-title"><a href="#" class="card-link"><u>Los hornitos de Leslie</u></a></h5>
+                  <p class="card-text">Productos caseros y de calidad.</p>
+                  <p class="card-text"><strong>Direccion: Chillán </strong><i class="fas fa-map-marked-alt"></i></p>
                 </div>
                 <ul class="list-group list-group-flush">
                   <h6>Contacto</h6>
-                  <li class="list-group-item">+569 9893843</li>
-                  <li class="list-group-item">+569 3857435</li>
+                  <li class="list-group-item">+569 91001271</li>
+                  <li class="list-group-item">+569 91001271</li>
                 </ul>
                 <div class="">
                   <h6>Redes Sociales</h6>
@@ -88,43 +88,43 @@
                 </div>
               </div>
         </div>
-        <div class="col mt-3">
-            <div class="card text-center" style="width: 14rem;">
-                <div class="card-img-top mt-1">
-                    <a href=""><img src="{{asset('img/imagen1.jpg')}}" alt="..."></a>
-                </div>
-                <div class="card-body">
-                  <h5 class="card-title"><a href="#" class="card-link">Tour Ñuble</a></h5>
-                  <p class="card-text">Somos una empresa familiar de turismo por la region de Nuble</p>
-                  <p class="card-text">Direccion: Andacollo 342</p>
-                </div>
-                <ul class="list-group list-group-flush">
-                  <h6>Contacto</h6>
-                  <li class="list-group-item">+569 9893843</li>
-                  <li class="list-group-item">+569 3857435</li>
-                </ul>
-                <div class="">
-                  <h6>Redes Sociales</h6>
-                  <a href="#" class="card-link">Facebook <i class="fa fa-facebook" aria-hidden="true"></i></a>
-                  <a href="#" class="card-link">Instragram <i class="fa fa-instagram" aria-hidden="true"></i></a>
-                  <a href="#" class="card-link">Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
-                </div>
-              </div>
-        </div>
-        <div class="col mt-3">
+        <div class="col">
             <div class="card text-center" style="width: 14rem;">
                 <div class="card-img-top">
-                    <a href=""><img src="{{asset('img/imagen1.jpg')}}" alt="..."></a>
+                    <a href=""><img class="img-thumbnail" src="{{asset('img/imagen1.jpg')}}" alt="..."></a>
                 </div>
                 <div class="card-body">
-                  <h5 class="card-title"><a href="#" class="card-link">Tour Ñuble</a></h5>
-                  <p class="card-text">Somos una empresa familiar de turismo por la region de Ñuble</p>
-                  <p class="card-text">Direccion: Andacollo 342</p>
+                  <h5 class="card-title"><a href="#" class="card-link "><u>ITIHUE TOUR LTDA</u></a></h5>
+                  <p class="card-text">Donde loa demás ven rutina, nosotros vemos turismo.</p>
+                  <p class="card-text"><strong>Direccion: San Carlos </strong><i class="fas fa-map-marked-alt"></i></p>
+                </div>
+                <ul class="list-group list-group-flush">
+                  <h6>Contacto</h6>
+                  <li class="list-group-item">+56 984977486</li>
+                  <li class="list-group-item">+56 984977486</li>
+                </ul>
+                <div class="">
+                  <h6>Redes Sociales</h6>
+                  <a href="#" class="card-link">Facebook <i class="fa fa-facebook" aria-hidden="true"></i></a>
+                  <a href="#" class="card-link">Instragram <i class="fa fa-instagram" aria-hidden="true"></i></a>
+                  <a href="#" class="card-link">Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+                </div>
+              </div>
+        </div>
+        <div class="col">
+            <div class="card text-center" style="width: 14rem;">
+                <div class="card-img-top">
+                    <a href=""><img class="img-thumbnail" src="{{asset('img/imagen5.jpg')}}" alt="..."></a>
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title"><a href="#" class="card-link"><u>Fantasía en lana “Mely”</u></a></h5>
+                  <p class="card-text">Original, hecho a mano y de calidad.</p>
+                  <p class="card-text"><strong>Direccion: Poblacion 12 de octubre #585, Campanario, Comuna de Yungay </strong><i class="fas fa-map-marked-alt"></i></p>
                 </div>
                 <ul class="list-group list-group-flush">
                    <h6>Contacto</h6>
-                  <li class="list-group-item">+569 9893843</li>
-                  <li class="list-group-item">+569 3857435</li>
+                  <li class="list-group-item">+569 83637871</li>
+                  <li class="list-group-item">+569 83637871</li>
                 </ul>
                 <div class="">
                   <h6>Redes Sociales</h6>
@@ -134,20 +134,20 @@
                 </div>
               </div>
         </div>
-        <div class="col mt-3">
+        <div class="col">
           <div class="card text-center" style="width: 14rem;">
               <div class="card-img-top">
-                  <a href=""><img src="{{asset('img/imagen1.jpg')}}" alt="..."></a>
+                  <a href=""><img  class="img-thumbnail" src="{{asset('img/imagen6.jpeg')}}" alt="..."></a>
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="#" class="card-link">Tour Ñuble</a></h5>
-                <p class="card-text">Somos una empresa familiar de turismo por la region de Ñuble</p>
-                <p class="card-text">Direccion: Andacollo 342</p>
+                <h5 class="card-title"><a href="#" class="card-link"><u>Emporio de Ñuble</u></a></h5>
+                <p class="card-text">¡Ven a conocer nuestro Emporio de Ñuble!</p>
+                <p class="card-text"><strong>Direccion: Pinto,sector valle las trancas </strong> <i class="fas fa-map-marked-alt"></i></p>
               </div>
               <ul class="list-group list-group-flush">
                <h6>Contacto</h6>
-                <li class="list-group-item">+569 9893843</li>
-                <li class="list-group-item">+569 3857435</li>
+                <li class="list-group-item">+569 40224512</li>
+                <li class="list-group-item">+569 40224512</li>
               </ul>
               <div class="">
                <h6>Redes Sociales</h6>
@@ -165,18 +165,35 @@
       <div class="modal-content">
         <div class="modal-header">
           
-          <h5 class="modal-title" id="exampleModalLabel">Chocolates Ñuble</h5>
+          <h5 class="modal-title" id="exampleModalLabel"><u>B&B Casona Patrimonial Cobquecura & Ecomuseo</u></h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body text-center">
             <div class="container border m-1">
-               <a href=""><img class="m-2" src="{{asset('img/imagen4.jpg')}}" alt="..."></a>
-               <h4 class="m-2">Informacion</h4>
-               <p class="card-text m-1">Disfrutas de nuestros chocolates sin azucar, hacemos ventar al por mayor</p>
+               <a href=""><img class="m-2 profile-header-img" src="{{asset('img/imagen.jpeg')}}" alt="..."></a>
+               <h4 class="m-2">Historia</h4>
+               <p class="card-text m-1">Conocí el pueblo de Cobquecura, cuando La U de Concepción entrego la 
+                  declaración de Zona Típica.  Un lugar increíble, golondrina volando por las calles, la playa
+                   con islotes llenos de vida. Cerca de la plaza agonizaba una casona antigua, tejas rotas 
+                   cayendo como lagrimas, puertas y ventanas tapeadas, curiosos entramos por el costado, nos 
+                   recibió un jardín alfombrado en flores, mágico.  Un mes después la compramos y con 60 
+                   trabajadores entre profesionales , técnicos y obreros incluyendo 12 mujeres la 
+                   restauramos/recreamos en cinco meses.  Esto fue nuestro proyecto familiar “Bicentenario” 
+                   aportar con conservación de patrimonio.    Llego una pieza arqueológica (1.000 años año +o-)
+                    hicimos un Ecomuseo para resguardar los testigos de la historia, las habitaciones las 
+                    nombramos con escritores, dos de ellos Cobquecuranos. </p>
+                    
+                    <h5><u>Direccion</u></h5>
+                    <p>Cobquecura</p>
+                    <p><i class="fas fa-map 7x"></i></p>
             </div>
             <div class="container border m-1">
                <h5 class="m-2">Números de Contato</h5>
                <p>Contacto 1: +56998987487  -  Contacto 2: +59887478765</p>
+            </div>
+            <div class="container border m-1">
+               <h5 class="m-2">Razon Social</h5>
+               <p>Hotel , cultura y patrimonio</p>
             </div>
             <div class="container border m-1">
                <h5 class="m-2">Redes Sociales</h5>
@@ -184,20 +201,23 @@
                <a href="#" class="card-link">Instragram <i class="fa fa-instagram" aria-hidden="true"></i></a>
                <a href="#" class="card-link">Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
             </div>
-            <h5 class="m-2">Productos</h5>
+            <h5 class="m-2">Imagenes</h5>
             <div class="d-flex justify-content-center">
                <div class="profile-header-img m-2">
-                  <img src="{{asset('img/user.png')}}" alt="">
+                  <img class="img-thumbnail" src="{{asset('img/users/imagen1.jpeg')}}" alt="">
                </div>
                <div class="profile-header-img m-2">
-                  <img src="{{asset('img/user.png')}}" alt="">
+                 <img class="img-thumbnail" src="{{asset('img/users/imagen2.jpeg')}}" alt="">
                </div>
                <div class="profile-header-img m-2">
-                  <img src="{{asset('img/user.png')}}" alt="">
+                  <img class="img-thumbnail" src="{{asset('img/users/imagen3.jpeg')}}" alt="">
+               </div>
+               <div class="profile-header-img m-2">
+                  <img class="img-thumbnail" src="{{asset('img/users/imagen4.jpeg')}}" alt="">
                </div>
             </div>
             
-        </div>
+        </div> 
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
         </div>
@@ -253,14 +273,13 @@
                           <div class="timeline-body">
                              <div class="timeline-header">
                                 <span><i class="fas fa-users p-1 fa-lg"></i></span>
-                                <span class="username"><a href="javascript:;">Chocolates Ñuble</a> <small></small></span>
-                              <span class="date">today</span>
+                                <span class="username"><a href="javascript:;">B&B Casona Patrimonial Cobquecura & Ecomuseo</a> <small></small></span>
+                              <span class="date">Hoy</span>
                               <span class="time">04:20</span>
                              </div>
                              <div class="timeline-content">
                                 <p class="m-2">
-                                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc faucibus turpis quis tincidunt luctus.
-                                   Nam sagittis dui in nunc consequat, in imperdiet nunc sagittis.
+                                   Chicos y chicas hoy empezamos a reservar horas para septiembre, apurense que ya se van.
                                 </p>
                              </div>
                              <div class="timeline-likes">
@@ -300,12 +319,12 @@
                           <div class="timeline-body">
                              <div class="timeline-header">
                                 <span class="userimage"><i class="fas fa-users p-1 fa-lg"></i></span>
-                                <span class="username">Granjas Ñuble</span>
+                                <span class="username">Fantasía en lana “Mely”</span>
                                 <span class="date">Lunes</span>
                                 <span class="time">20:17</span>
                              </div>
                              <div class="timeline-content">
-                                <p class="m-2"><i class="fas fa-map-marker-alt"></i> Ubicacion: Calle los lagos, #404</p>
+                                <p class="m-2">!Nos cambiamos de direccion, ahora vamos a estar atendiendo en la Ubicacion: Calle los lagos, #404!</p>
                              </div>
                              <div class="timeline-footer p-1">
                               <a href="javascript:;" class="m-r-15 text-inverse-lighter"><i class="fa fa-thumbs-up fa-fw fa-lg m-r-3"></i> Me gusta</a>
@@ -334,16 +353,14 @@
                           <div class="timeline-body">
                              <div class="timeline-header">
                                 <span class="userimage"><i class="fas fa-users p-1 fa-lg"></i></span>
-                                <span class="username">Licores Ñuble</span>
+                                <span class="username">Los hornitos de Leslie</span>
                                 <span class="date">24 Febrero 2014</span>
                                 <span class="time">08:17</span>
 
                              </div>
                              <div class="timeline-content">
                                 <p class="m-2">
-                                 
-                                   Quisque sed varius nisl. Nulla facilisi. Phasellus consequat sapien sit amet nibh molestie placerat. Donec nulla quam, ullamcorper ut velit vitae, lobortis condimentum magna. Suspendisse mollis in sem vel mollis.
-                                 
+                                    Hoy tenemos empanadas de horno y fritas para disfrutar, hagan sus pedidos antes que se acaben.
                                 </p>
                              </div>
                              <div class="timeline-footer p-1">
